@@ -1,4 +1,4 @@
-## A simple Web Server build with Golang
+## A simple Web Server built with Golang
 
 ### Three components
 *   / forward slash, navigates to the index.html page and displays welcome message
